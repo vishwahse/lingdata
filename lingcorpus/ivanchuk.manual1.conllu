@@ -454,8 +454,8 @@
 451	интересная	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vmi1969m#@vmi1969m#219.414#219.742
 452	партия	партия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@vmi1969m#@vmi1969m#219.742#220.07
 453	с	с	ADP	_	_	_	_	_	words@vmi1969m#@vmi1969m#220.07#220.398
-454	вэй	вэй	NOUN	_	Animacy=An|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@vmi1969m#@vmi1969m#220.398#220.726
-455	и	и	NOUN	_	Animacy=An|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@vmi1969m#@vmi1969m#220.726#221.054
+454	Вэй	Вэй	NOUN	_	Animacy=An|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@vmi1969m#@vmi1969m#220.398#220.726
+455	И	И	NOUN	_	Animacy=An|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@vmi1969m#@vmi1969m#220.726#221.054
 456	/	/	PUNCT	_	_	_	_	_	words@vmi1969m#@vmi1969m#221.054#221.382
 457	где	где	ADV	_	Degree=Pos	_	_	_	words@vmi1969m#@vmi1969m#221.382#221.71
 458	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@vmi1969m#@vmi1969m#221.71#222.038
